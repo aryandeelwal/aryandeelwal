@@ -2,7 +2,7 @@
 
 * I am [ Aryan ](https://www.linkedin.com/in/aryan-a0439421b/). 😄 Pronouns: he/him
 * I am a 2022 undergraduate and done my bachelors in Electrical and Electronics Engineering from IP University.
-* I am actively looking for an Software engineer roles.
+* I am actively looking for Software engineer roles.
 
 ## Tech Stack 💻 
 
