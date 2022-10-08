@@ -4,12 +4,15 @@
 * I am a 2022 undergraduate and done my bachelors in Electrical and Electronics Engineering from IP University.
 * ```I am a self-taught web developer, currently looking for an entry-level opportunity.```
 
+[![@aryandeelwal's Holopin board](https://holopin.io/api/user/board?user=aryandeelwal)](https://holopin.io/@aryandeelwal)
+
+
 ## Tech Stack 💻 
 
 ### Programming Languages
 <p float="left">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xVCufn18--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5nnkrcc3kixypm642opg.gif" height="90" />   
-<img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png"  height="90" />
+<img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png"  height="90" width="140"/>
 </p>
 
 ### Libraries and Frameworks
@@ -42,8 +45,6 @@
 >
 > [![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryandeelwal&theme=dark&count_private=true&theme=radical)](https://github.com/aryandeelwal)
 
-## Participations
-[![@aryandeelwal's Holopin board](https://holopin.io/api/user/board?user=aryandeelwal)](https://holopin.io/@aryandeelwal)
 <!--
 **aryandeelwal/aryandeelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
