@@ -41,7 +41,7 @@
 </p>
 
 ## Stats
-> ![Aryan Github Stats](https://github-readme-stats.vercel.app/api?username=aryandeelwal&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+> ![Aryan Github Stats](https://github-readme-stats.vercel.app/api?username=aryandeelwal&show_icons=true_color)
 >
 > [![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryandeelwal&theme=dark&count_private=true&theme=radical)](https://github.com/aryandeelwal)
 
