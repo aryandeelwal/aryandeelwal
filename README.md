@@ -12,7 +12,12 @@
 ### Programming Languages
 <p float="left">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xVCufn18--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5nnkrcc3kixypm642opg.gif" height="90" />   
-<img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png"  height="90" width="140"/>
+<a href="https://www.javascript.com/" target="_blank" >
+    <img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png"  height="90" width="140"/>
+  </a>
+<a href="https://python.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/python3.gif"  height="90" />
+  </a>
 </p>
 
 ### Libraries and Frameworks
