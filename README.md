@@ -62,7 +62,8 @@
 > ![Aryan Github Stats](https://github-readme-stats.vercel.app/api?username=aryandeelwal&show_icons=true_color)
 >
 > [![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryandeelwal&theme=dark&count_private=true&theme=radical)](https://github.com/aryandeelwal)
-
+> 
+> ![](https://komarev.com/ghpvc/?username=aryandeelwal&style=flat-square)
 <!--
 **aryandeelwal/aryandeelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
