@@ -36,7 +36,7 @@
 <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/mongo.gif" height="70">
   </a>
 <a href="https://redis.io/" target="_blank" >
-<img src="AVvXsEh09KugWf9Nll7KSG7yZBNIvMLXvLKZ92heAygg8X6PYa2oq5Gp7OARqFBSZyMbfZCsrcK9Mh72AhpOgxuEXhmjAynK6iRSEf_xMMAl_T0oqulTMyMrJgAc7PDPFVO0MuKFWRJessc_Iu5" height="70">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png" height="70" width="110">
   </a>
 </p>
 
