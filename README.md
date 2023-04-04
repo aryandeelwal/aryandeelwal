@@ -35,6 +35,9 @@
 <a href="https://www.mongodb.com/" target="_blank" >
 <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/mongo.gif" height="70">
   </a>
+<a href="https://redis.io/" target="_blank" >
+<img src="AVvXsEh09KugWf9Nll7KSG7yZBNIvMLXvLKZ92heAygg8X6PYa2oq5Gp7OARqFBSZyMbfZCsrcK9Mh72AhpOgxuEXhmjAynK6iRSEf_xMMAl_T0oqulTMyMrJgAc7PDPFVO0MuKFWRJessc_Iu5" height="70">
+  </a>
 </p>
 
 ### Tools and Services
